@@ -17,9 +17,8 @@ Whether you just stubmled on this site or starting out in this field or have bee
 
 **I am by no means an expert in all things cybersecurity. If you spot something I got wrong, or if you see a different perspective, I’d love to hear from you.**
 
-### 📚 Currently Reading:
-- *The Art of Memory* by Frances A. Yates
-- *Sandworm* by Andy Greenberg
+### 📚 Blogs I often read:
+- [YC Hacker News](https://news.ycombinator.com/)
 
 ### 🎧 Podcasts on My Radar:
 - [Darknet Diaries](https://darknetdiaries.com/)
