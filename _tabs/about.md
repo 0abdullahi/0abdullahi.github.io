@@ -15,7 +15,8 @@ Today, I work as Offensive Security Engineer focusing on: Application Security, 
 This blog is my little corner of the internet, a place where I document what I’ve discovered, reflect on hard earned lessons (through rabbitholes), and experiment with new tools and techniques. It's part learning journal, part public notebook. It's a way for me to sharpen my thinking, improve my writing, and quiet that persistent voice of imposter syndrome we all wrestle with sometimes.
 Whether you just stubmled on this site or starting out in this field or have been in the field for years, I hope you find something here that sparks your curiosity.
 
-**I am by no means an expert in all things cybersecurity. If you spot something I got wrong, or if you see a different perspective, I’d love to hear from you.**
+> I am by no means an expert in all things cybersecurity. If you spot something I got wrong, or if you see a different perspective, I’d love to hear from you.
+{: .prompt-info }
 
 ### 📚 Blogs I often read:
 - [YC Hacker News](https://news.ycombinator.com/)
