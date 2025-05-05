@@ -24,7 +24,6 @@ Whether you just stubmled on this site or starting out in this field or have bee
 
 ### 🎧 Podcasts on My Radar:
 - [Darknet Diaries](https://darknetdiaries.com/){:target="_blank"}
-- [Darknet Diaries](https://darknetdiaries.com/)
-- [My First Million](https://mfmpod.com)
-- [Real Survival Stories by Noiser](https://noiser.com/real-survival-stories)
-- [A16Z Podcast](https://a16z.com/podcasts/)
+- [My First Million](https://mfmpod.com){:target="_blank"}
+- [Real Survival Stories by Noiser](https://noiser.com/real-survival-stories){:target="_blank"}
+- [A16Z Podcast](https://a16z.com/podcasts/){:target="_blank"}
