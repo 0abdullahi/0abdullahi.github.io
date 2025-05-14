@@ -25,10 +25,10 @@ Whether you just stumbled on this site or starting out in this field or have bee
 > I am by no means an expert in all things cybersecurity. If you spot something I got wrong, or if you see a different perspective, I’d love to hear from you.
 {: .prompt-info }
 
-### 📚 Blogs I often read:
+## 📚 Blogs I often read:
 - [YC Hacker News](https://news.ycombinator.com/)
 
-### 🎧 Podcasts on My Radar:
+## 🎧 Podcasts on My Radar:
 - [Darknet Diaries](https://darknetdiaries.com/){:target="_blank"}
 - [My First Million](https://mfmpod.com){:target="_blank"}
 - [Real Survival Stories by Noiser](https://noiser.com/real-survival-stories){:target="_blank"}
