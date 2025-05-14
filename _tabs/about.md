@@ -7,7 +7,7 @@ order: 4
 Hola 👋🏼 
 
 I am Abdullahi, born to be a geeljire 🐪 (Nomad), forced to be breaking into software applications.\
-A pentester by day, gym rat by afternoon and errand boy by night.\
+A pentester by day, gym rat by afternoon and hopping between unfinished side projects by night.\
 A wannabe founder, entrepreneur, and athlete (yah… not happening)
 
 My journey into cybersecurity wasn’t exactly part of the master plan. I was chasing a totally different degree when a university strike hit. While waiting, I stumbled into a cybersecurity program.\
