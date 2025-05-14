@@ -4,11 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hola 👋🏼 My name is Abdullahi.
+Hola 👋🏼 
 
-My journey into cybersecurity wasn’t exactly planned. I was pursuing a completely different degree when a long university strike by professors brought everything to a halt. While waiting, I stumbled across cybersecurity program almost by accident and before I knew it, I was deep into studying how computers work, different types of networks, vulnerabilities, and security concepts. 
+I am Abdullahi, born to be a geeljire 🐪 (Nomad), forced to be breaking into software applications.\
+A pentester by day, gym rat by afternoon and errand boy by night.\
+A wannabe founder, entrepreneur, and athlete (yah… not happening)
 
-Today, I work as Offensive Security Engineer focusing on: Application Security, Cloud Environment Configurations, Source Code reviews, and Generative AI tests. As they say: breaking into systems before bad guys do. 
+My journey into cybersecurity wasn’t exactly part of the master plan. I was chasing a totally different degree when a university strike hit. While waiting, I stumbled into a cybersecurity program.\
+Then spent some years neck deep learning how computers work, the internet, packet sniffing, participating in CTF challenges, vulnerability hunting and neverending troubleshooting.
+
+These days, I work as Offensive Security Engineer focusing on: Application Security, Cloud Environment Configurations reviews, Source Code reviews, and Generative AI tests. As they say: breaking into systems before bad guys do.
 
 # About this site
 
